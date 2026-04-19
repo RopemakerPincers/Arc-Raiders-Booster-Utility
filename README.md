@@ -78,4 +78,4 @@ A: Impact is minimal (5–10% FPS reduction). You can disable heavier features i
 
 Arc Raiders Booster Utility v2.8.4 2026 Edition is released under the permissive MIT License. You are free to use, modify, and distribute this project with attribution.
 
-Read the full MIT License here.
+Read the full MIT License [here](LICENSE).
