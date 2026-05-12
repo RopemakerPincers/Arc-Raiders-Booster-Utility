@@ -80,3 +80,4 @@ Arc Raiders Booster Utility v2.8.4 2026 Edition is released under the permissive
 
 
 Read the full MIT License [here](LICENSE).
+
